@@ -33,9 +33,3 @@ configured and tested using Azure AI Foundry.
 - How Azure AI Foundry manages AI projects
 - Basic agent architecture
 - Agent testing and iteration workflow
-
-## Future Improvements
-
-- Integrate custom tools
-- Connect external APIs
-- Deploy an agent-backed application
