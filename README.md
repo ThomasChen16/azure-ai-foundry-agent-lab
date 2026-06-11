@@ -24,7 +24,9 @@ configured and tested using Azure AI Foundry.
 - Explored agent workflows and deployment concepts
 
 ## Screenshots
+![AI Foundry Dashboard](screenshots/foundry.png)
 
+![AI Frontend](screenshots/ai-agent-frontend.png)
 
 ## Key Takeaways
 
